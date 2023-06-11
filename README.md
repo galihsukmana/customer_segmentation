@@ -9,7 +9,7 @@ Welcome to the repository for my Credit Card Customer Segmentation project! This
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 In this project, I performed credit card customer segmentation using unsupervised learning algorithms. The goal was to discover meaningful patterns and segments within the customer base, enabling personalized marketing strategies, targeted offers, and improved customer satisfaction.
