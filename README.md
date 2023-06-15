@@ -32,7 +32,12 @@ To perform credit card customer segmentation using the trained models, follow th
 
 
 ## Results
-The credit card customer segmentation analysis resulting 3 cluster of customer segmentation. By clustering customers into distinct segments, businesses can better understand their customer base, target specific segments with tailored marketing strategies, and enhance customer satisfaction.
+The credit card customer segmentation analysis resulting 3 cluster of customer segmentation. By clustering customers into distinct segments, businesses can better understand their customer base, target specific segments with tailored marketing strategies, and enhance customer satisfaction.  
+
+
+- Cluster 0: Represents customers with high balance and moderate purchasing activity.
+- Cluster 1: Represents customers with low balance and low purchasing activity.
+- Cluster 2: Represents customers with high balance, high purchasing activity, and high credit limit
 
 
 ## Contributing
